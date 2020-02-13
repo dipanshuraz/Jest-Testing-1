@@ -1,6 +1,6 @@
 # Jest-Testing-1
 
-npm init
+npm init <br>
 Install Jest:
 
 npm install --save-dev jest
